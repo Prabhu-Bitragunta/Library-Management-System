@@ -1,0 +1,2 @@
+BookId,Title,Author,Issued,IssuedToId,BorrowerType
+1,animal,anil,false,0,NONE

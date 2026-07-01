@@ -1,0 +1,12 @@
+# Block compiled Java files
+*.class
+
+# Block Eclipse metadata files
+.project
+.classpath
+.settings/
+
+# Block build directories
+bin/
+target/
+build/
